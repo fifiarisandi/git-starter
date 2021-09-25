@@ -1,3 +1,5 @@
 added some more text
 
+hello 
+
 This is an introduction to using Git
